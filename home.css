@@ -126,6 +126,24 @@ ul {
     margin-right: 20px;
     text-align: center;
   }
+  #clickhere{
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 15px;
+    background-color: #C8E6C9;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #C8E6C9;
+    padding: 20px;
+  }
+
+  @keyframes popupslide {
+    from {right: 0%;}
+    to {left: 50%;}
+    }
+
 
   
 
