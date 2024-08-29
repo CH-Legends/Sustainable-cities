@@ -1,0 +1,136 @@
+
+body{
+    
+    font-family: 'Open Sans';
+    font-size: 20px;
+    background-color:#FFFFF0;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: black;
+    text-align: justify;
+
+}
+
+header{
+    font-family: 'Playfair Display';
+    font: size 30px;
+    border: 5px;
+    border-style: solid;
+    border-radius: 15;
+    padding:20px;
+    text-align:center;
+    font-weight: 700;
+    color: #004D40;
+    background-color:#004D40 ;
+    border-color:#004D40;
+    
+    
+}
+#heading{
+    color:  #FFFFF0;
+
+}
+#subheading{
+    color:  #FFFFF0;
+}
+
+#p1{
+    color: black;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    padding:20px;
+    text-align:center;
+    font-weight: 700;
+    background-color: #C8E6C9;
+    border-color: #C8E6C9;
+    margin-top: 10px;
+
+}
+
+#p2{
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+    background-color: #C8E6C9;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #C8E6C9;
+    padding: 20px;
+}
+#p3{
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 10px;
+    background-color: #C8E6C9;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #C8E6C9;
+    padding: 20px;
+}
+#links{
+    
+    border: 15px;
+    border-color:slategray;
+    background-color: #004D40;
+    margin-top: 30px;
+    border-radius: 15px;
+    padding: 10px;
+    font-size: 20px;
+}
+a:link{
+    font-weight: 700;
+    color: #175499;
+    font-size: 20px;
+
+}
+a:hover{
+    color:#4787d1;
+}
+
+.head{
+    border: 15px;
+}
+
+#overview{
+    color: black;
+    text-align: center;
+    font-weight: 700;
+    margin-top: 15px;
+    background-color: #C8E6C9;
+    border: 1px;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #C8E6C9;
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+
+  
+  nav ul {
+    display: flex;
+    text-align: center;
+  }
+  nav li {
+    margin-right: 20px;
+    text-align: center;
+  }
+
+  
+
+  
+
+
+
+
